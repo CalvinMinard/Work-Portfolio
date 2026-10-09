@@ -395,7 +395,7 @@ section h2,
   }
 
   #boat-builder {
-    scroll-margin-top: 5rem;
+    scroll-margin-top: 6rem;
   }
 
   #factory {
@@ -403,11 +403,11 @@ section h2,
   }
 
   #inspira {
-    scroll-margin-top: 3rem;
+    scroll-margin-top: 2rem;
   }
 
   #armor {
-    scroll-margin-top: 13rem;
+    scroll-margin-top: 12rem;
   }
 
   #weatherford {
@@ -415,11 +415,11 @@ section h2,
   }
 
   #argus {
-    scroll-margin-top: 15rem;
+    scroll-margin-top: 16rem;
   }
 
   #apollo {
-    scroll-margin-top: 14rem;
+    scroll-margin-top: 15rem;
   }
 
   #pv-not {
@@ -427,18 +427,6 @@ section h2,
   }
 
   #motion {
-    scroll-margin-top: 10rem;
-  }
-
-  #brunette {
-    scroll-margin-top: 5rem;
-  }
-
-  #precision {
-    scroll-margin-top: 5rem;
-  }
-
-  #college {
     scroll-margin-top: 5rem;
   }
 
@@ -589,6 +577,16 @@ section h2,
   }
 
   .certificates-awards-licenses-contents {
+    display: block;
+  }
+
+  .not-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .not-links a {
     display: block;
   }
 
